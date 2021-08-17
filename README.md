@@ -1,24 +1,3 @@
-# frontend
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Para configurar o arquivo frontend basta ir para a pasta raiz e usar o comando 'npm install', para 
+instalar as dependências e depois é so rodar o comando 'npm run serve' e ir para a url 
+'http://localhost:8080/', se tudo estiver correto seu browser mostrará a view livros.
